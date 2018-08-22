@@ -72,5 +72,5 @@ filePath1 = "E:\\svn\\Software\\Projects\\EsStd\\Trunk\\Import\\Include\\EsConfi
 filePath2 = "E:\\svn\\Software\\Projects\\EsStd\\Trunk\\Modules\\EsLocalCfgTool\\Sources\\ConfigProjectStd.cpp"
 filePath3 = "E:\\svn\\Software\\Projects\\EsStd\\Trunk\\Import\\Include\\EsConfig\\Result.h"
 
-# 还需要修改
+# 我再试一次提交git
 funFilter(filePath1, filePath2, filePath3)
