@@ -1,5 +1,3 @@
-
-
 def formatCfg(line):
     '''
         格式化配置项
